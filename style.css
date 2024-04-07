@@ -38,3 +38,12 @@ img {
   overflow-clip-margin: content-box;
   overflow: clip;
 }
+
+@media (min-width: 800px) {
+  #thumbContainer {
+    height: 150px;
+  }
+  #thumbContainer > img {
+    height: 125px;
+  }
+}
