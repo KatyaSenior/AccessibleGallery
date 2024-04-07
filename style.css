@@ -15,7 +15,6 @@ body {
   align-items: center;
   background-color: rgba(53, 53, 53, 0.459);
   padding: 0px 5px;
-
   bottom: 3vh;
   z-index: 1;
   overflow: scroll;
